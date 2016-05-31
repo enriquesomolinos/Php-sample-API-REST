@@ -1,0 +1,4 @@
+/bin/
+/database.sqlite
+/databasetest.sqlite
+/vendor/
