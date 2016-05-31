@@ -14,7 +14,8 @@ This project is builts as a set of bundles. I created 5 bundles:
 * TemplateRendererBundle: this module renders html templates.
 * MainBundle : main module that contains the web. This module use the UserBundle and the TemplateRendererBundle.
 
-![Modules]("http://www.pictureshack.us/images/10359_modules.png")
+![Bundles representation](/doc/modules.png "Bundles representation")
+
 
 
 How to install
