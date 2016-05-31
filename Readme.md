@@ -1,6 +1,6 @@
 Technical test for Backends (PHP)
 ===================================
-This a Web Application using PHP.
+This is a Web Application using PHP.
 
 This web contains 3 private pages wich users with appropiate roles can access.
 
@@ -43,7 +43,7 @@ Php.ini configuration
 
 As this project uses SQLite3 to store users, you need to enable the extension php_sqlite3 in your php.ini file.
 
-Also, you need to enable the php_curl extension in your php.ini file because the REST API test uses curl command to
+Also, you need to enable the php_curl extension in your php.ini file because the REST API tests uses curl command to
 perform the requests.
 
 Running the web application
